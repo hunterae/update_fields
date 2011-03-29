@@ -1,0 +1,15 @@
+= UpdateFields
+
+== Installation
+
+=== Rails 3.0
+
+Add the following to your Gemfile:
+  
+  gem 'update-fields'
+
+== Usage
+
+Copyright (c) 2011 Andrew Hunter (http://github.com/hunterae) and Captico LLC. (http://captico.com/), released under the MIT license
+
+== Special Thanks
