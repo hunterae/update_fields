@@ -10,6 +10,12 @@ Add the following to your Gemfile:
 
 == Usage
 
+  @database_model.update_fields(:field1 => "some value", :field2 => 2, :field3 => true)
+
+or
+
+  @database_model.update_field(:balance, "balance - 100")
+
 Copyright (c) 2011 Andrew Hunter (http://github.com/hunterae) and Captico LLC. (http://captico.com/), released under the MIT license
 
 == Special Thanks
