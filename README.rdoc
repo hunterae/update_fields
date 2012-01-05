@@ -1,5 +1,7 @@
 = UpdateFields
 
+Run atomic updates on a single field or multiple fields of a activerecord model
+
 == Installation
 
 === Rails 3.0
